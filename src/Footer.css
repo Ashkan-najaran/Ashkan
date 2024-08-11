@@ -1,0 +1,148 @@
+.div-1{
+    display: grid;
+    margin-left: 90px;
+  }
+  .img-1{
+    width: 100px;
+    height: 120px;
+    border: 2px rgb(226, 224, 224) solid;
+    margin-left: 102px;
+  }
+  .img-2{
+    width: 100px;
+    height: 120px;
+    border: 2px  rgb(226, 224, 224) solid;
+  }
+  .img-3{
+    width: 100px;
+    height: 120px;
+    border: 2px  rgb(226, 224, 224) solid;
+    margin-left: 102px;
+  }
+  .img-4{
+    margin-left: 300px;
+    width: 350px;
+    height: 400px;
+    margin-top: -400px;
+  
+  }
+  .p-1{
+    color: rgb(70, 76, 128);
+    font-size: 35px;
+    margin-left: 650px;
+    margin-top: -400px;
+  }
+  .h1{
+    margin-left: 650px;
+    margin-top: -40px;
+    font-size: 50px;
+    
+  }
+  .div-4{
+     display: flex;
+  }
+  h2{
+    font-size: 50px;
+    margin-top: -40px;
+    margin-left: 10px;
+  }
+  .p-3{
+    margin-left: 650px;
+    margin-top: -35px;
+    font-size: 25px;
+  }
+  .div-5{
+    margin-left: 650px;
+    margin-top: -5px;
+    display: flex;
+    gap: 30px;
+  }
+  .button-1{
+    background-color: rgb(252, 253, 253);
+    height: 35px;
+    padding: 0.5em 2em;
+    border-width: 80px;
+    border: 2px solid silver;
+  }
+  .button-1:hover,.button-3:hover,.button-4:hover,.button-5:hover{
+    padding: 0.6em 2.1em;
+    height: 40px;
+    transition: 0.6s ease;
+  }
+  .button-3{
+    background-color: lightblue;
+    height: 35px;
+    padding: 0.5em 2em;
+    border-width: 80px;
+    border: 2px solid silver;
+  }
+  .button-4{
+    background-color: rgb(130, 131, 131);
+    height: 35px;
+    padding: 0.5em 2em;
+    border-width: 80px;
+    border: 2px solid silver;
+  }
+  .button-5{
+    background-color: darkblue;
+    height: 35px;
+    padding: 0.5em 2em;
+    border-width: 80px;
+    border: 2px solid silver;
+  }
+  .p-4{
+    margin-left: 650px;
+    margin-top: 9px;
+    font-size: 25px; 
+  }
+  .button-2,.button-6,.button-6,.button-7,.button-8{
+    background-color: rgb(252, 253, 253);
+    height: 35px;
+    padding: 0.3em 1em;
+    border-width: 80px;
+    border: 2px solid silver;
+  }
+  .div-7{
+    margin-left: 650px;
+    margin-top: -5px;
+    display: flex;
+    gap: 20px;  
+  }
+  .button-2:hover,.button-6:hover,.button-6:hover,.button-7:hover,.button-8:hover{
+    font-size: 20px;
+    background-color: rgb(32, 32, 32);
+    color: white;
+  }
+  .button-9{
+    margin-left: 650px;
+    margin-top:15px;
+    border-radius: 25px;
+    background-color: rgb(125, 125, 126);
+    border: 20px;
+    padding: 8px 100px;
+  }
+  .button-10{
+    margin-left: 905px;
+    margin-top: -55px; 
+    padding:3px 5px;
+    background-color: #fff;
+    border: 3px solid silver;
+    border-radius: 49%;
+  }
+  .img-5{
+    width: 45px;
+    height: 45px;
+  
+  }
+  .div-8{
+    margin-top: -22px;
+  }
+  .img-5:hover{
+    width:50px ;
+    height: 50px; 
+  }
+  .button-9:hover{
+   padding:10px 110px ;
+   background-color: rgb(218, 218, 224);
+   font-size: large;
+  }
